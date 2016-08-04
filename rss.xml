@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Karma Film]]></title>
-        <description><![CDATA[Karma Film]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Commercial and Promos]]></title>
+        <description><![CDATA[Commercial and Promos]]></description>
+        <link>https://thegrid.ai/karma-film/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 08:47:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 13:26:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/karma-film/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Aksglæde - Lille Taarbæktøs]]></title>
+            <description><![CDATA[<article><h1>Aksglæde - Lille Taarbæktøs</h1><p>Musik video by Karma Film</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/937cf0d3cefc423fa45c63028665bfc3/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FwLqjwj72-eA%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/wLqjwj72-eA</link>
+            <guid isPermaLink="false">ec3c0d29-74f8-4ab8-90c5-3bce126ba4fa</guid>
+            <pubDate>Thu, 04 Aug 2016 13:26:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mido Eyewear Show 2016]]></title>
             <description><![CDATA[<article><h1>Mido Eyewear Show 2016</h1><p>While you might not have heard of it, Italy's Mido Eyewear Show is the leading event for eyewear professionals. It's an exhibition during which major international brands present their new styles and innovations for prescription specs and sunglasses-and, while it might sound like it's purely for industry members, it's fascinating for anybody interested in fashion and design.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0e4e7f9c24bc25e24721945becf5f7aec28e9a0.jpg"></article>]]></description>
